@@ -5,7 +5,7 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 //import YTSearch from 'youtube-api-search';
 import * as ytSearch from 'youtube-api-search'
-const API_KEY='AIzaSyAfQ9841m3TroaUQnO8HjbxcZSGUl5uhBE'
+const API_KEY='Your API Key'
 
 
 //import { Hello } from "./components/Hello";
