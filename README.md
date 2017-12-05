@@ -13,9 +13,9 @@ Check the package.json for versions of packaages
 
 ### Installing
 
-run npm install  to install all the packages.
-Then run webpack to build the project
-Then you need to run npm start to start the local webpack-dev server which will serve the index page
+run "npm install" in the command prompt to install all the packages .
+Then run "webpack" to build the project
+Then you need to run "npm start" to start the local webpack-dev server which will serve the index page
 
 
 
