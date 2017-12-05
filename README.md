@@ -9,7 +9,7 @@ clone or download the project in your local machine
 
 ### Prerequisites
 
-Check the package.json for versions of packaages
+Create a youtube api search key and replace in index.tds where it says "Your api key"
 
 ### Installing
 
