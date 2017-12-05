@@ -2,7 +2,7 @@
 
 # Youtube Search App 
 
-A youtube search app based on typescript and React. The App component renders Search bar, VideoDetail and Videolist components. VideoDetail component plays the selected video .Video list component renders   VideoListItem component for each video.  
+A youtube search app based on typescript and React. The App component renders Search bar, VideoDetail and Videolist components. VideoDetail component plays the selected video .Video list component renders   VideoListItem component for each video.  The search component implements the search functionality
 
 ## Getting Started
 clone or download the project in your local machine
